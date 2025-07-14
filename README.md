@@ -22,6 +22,8 @@ I'm a student at **ESCOM, IPN**, with a passion for web development. Currently, 
 
 - **Email**: [molinajosue090@gmail.com](mailto:tu-correo@example.com)
 - **Instagram**: [j0su_mol](https://www.instagram.com/j0su_mol)
+- **Linkedin**: [Josue Molina Merino](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+
 
 ---
 
